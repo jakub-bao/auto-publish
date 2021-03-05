@@ -1,0 +1,7 @@
+repositories:
+    ../dhis2-app:
+      api
+#      dev-tools
+#      network-check
+#      test-data
+#      test-tools
